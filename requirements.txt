@@ -1,0 +1,8 @@
+langgraph==1.2.11
+langchain-core==1.6.3
+openai==2.54.0
+python-dotenv==1.2.2
+pandas==2.2.2
+streamlit==1.32.0
+numpy==1.26.4
+pyarrow==17.0.0

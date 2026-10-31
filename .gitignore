@@ -1,0 +1,23 @@
+# Include only application runtime files and documentation.
+*
+!/examples/
+!/examples/credit_portfolio/
+!/examples/credit_portfolio/batch_1/
+!/examples/credit_portfolio/batch_1/raw/
+!/examples/credit_portfolio/batch_2/
+!/examples/credit_portfolio/batch_2/raw/
+!/.gitignore
+!/.env.example
+!/agent.py
+!/app.py
+!/Makefile
+!/requirements.txt
+!/README.md
+!/README2.md
+!/examples/credit_portfolio/commands.txt
+!/examples/credit_portfolio/batch_1/raw/applications.csv
+!/examples/credit_portfolio/batch_1/raw/loans.csv
+!/examples/credit_portfolio/batch_1/raw/monthly.csv
+!/examples/credit_portfolio/batch_2/raw/applications.csv
+!/examples/credit_portfolio/batch_2/raw/loans.csv
+!/examples/credit_portfolio/batch_2/raw/monthly.csv
